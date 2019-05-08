@@ -22,8 +22,9 @@ export class Resume extends Component {
             <h4 style={{color:'grey'}}>Programmer</h4>
             <hr style={{borderTop:'3px solid #833fb2', width:'50%'}}/>
             <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+            
+            <h4 style={{color:'grey'}}>Address</h4>
             <hr style={{borderTop:'3px solid #833fb2', width:'50%'}}/>
-            <h5>Address</h5>
             <p>JL.Saptamarga, GG. Samariinda V, </p>
           </Cell>
           <Cell col ={8} className='resume-right-cel'>
