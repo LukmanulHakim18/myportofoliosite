@@ -11,17 +11,17 @@ function App() {
     <div className="demo-big-content">
         <Layout>
             <Header className='header-color' title={<Link style={{textDecoration:'none', color:'white'}} to="/">MyPortofolio</Link>} scroll>            
-                <Navigation>                                        
-                    <Link to="/resume">Resume</Link>                    
+                <Navigation>                           
+                    <Link to="/contact">Contact</Link>            
                     <Link to="/project">Projects</Link>
-                    <Link to="/contact">Contact</Link>
+                    <Link to="/resume">Resume</Link>
                 </Navigation>
             </Header>
             <Drawer title={<Link to="/" style={{textDecoration:'none', color:'grey'}}>My Portofolio</Link>}>
                 <Navigation>                                        
-                    <Link to="/resume">Resume</Link>                    
+                    <Link to="/contact">Contact</Link>            
                     <Link to="/project">Projects</Link>
-                    <Link to="/contact">Contact</Link>
+                    <Link to="/resume">Resume</Link>
                 </Navigation>
             </Drawer>
             <Content>
