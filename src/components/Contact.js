@@ -10,7 +10,8 @@ export class Contact extends Component {
           <Cell col={6}>
             <h2>Lukmanul Hakim</h2>
             <img src={me} alt='my pict' style={{height: '250px', borderRadius: '20px'}} />
-            <p style={{width: '75%', margin: 'auto', paddingTop: '1em' }}>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+            <p style={{width: '75%', margin: 'auto', paddingTop: '1em' }}>Kebahagian ialah<br></br>
+            'Mencintai apa yang kamu miliki bukan memiliki apa yang kamu cintai'</p>
           </Cell>
           <Cell col={6}>
             <h2>Contact Me</h2>
