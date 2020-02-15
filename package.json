@@ -10,7 +10,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.0.0"
   },
-  "hompage": "https://LukmanulHakim18.github.io/production",
+  "hompage": "https://LukmanulHakim18.github.io/myportofoliosite",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
